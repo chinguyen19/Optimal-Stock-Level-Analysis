@@ -17,8 +17,7 @@ To address this pressing challenge, I initiated the project by conducting a comp
 
 Next, I delved into exploratory data analysis (EDA) to gain a deep understanding of the inventory data. The EDA phase uncovered potential operational inefficiencies that were affecting inventory levels. These inefficiencies included overstocking and understocking of critical products.
 
-![Inventory](inventoryd.png)
-
+<img src="inventory.png">
 
 The most significant part of the project was the development of the recommended inventory level model. Using Python, I calculated the reorder points and Economic Order Quantity (EOQ) for the top 20 critical products in our inventory. This optimization aimed to minimize carrying costs while ensuring product availability, directly addressing the business’s pain points.
 
